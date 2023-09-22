@@ -13,18 +13,22 @@ Using Text Analytics, textual data was converted to numerical data using TF-IDF 
 Test data was put into our trained model and Mean absolute error was used to test the efficiency of the model.</br>
 
 Insights before prediction:-</br>
-
+**Properties of Traget Variable**
 ![image](https://github.com/DAKSH1-HUB/Twitter_Disaster_Prediction/assets/81084807/38d82fb1-61ee-45c4-bf9c-7175b24af6f1)
 </br>
+
 **Number of Fake and Real tweets**
 ![image](https://github.com/DAKSH1-HUB/Twitter_Disaster_Prediction/assets/81084807/02600ea3-17e0-44ee-bd11-63efaed8d041)
 </br>
+
 **Comparison of length of Real and Fake tweets.**
 ![image](https://github.com/DAKSH1-HUB/Twitter_Disaster_Prediction/assets/81084807/c00f54d0-6eae-4400-b4cc-d97ef5e77185)
 </br>
+
 **Sentiment Analysis of the tweets and trying to find some relation. Most of the tweets were neutral.**
 ![image](https://github.com/DAKSH1-HUB/Twitter_Disaster_Prediction/assets/81084807/7e1d56ba-1cfa-46ae-8c47-a50a4ec67d90)
 </br>
+
 **Average Sentiment rating according to our traget variable**
 ![image](https://github.com/DAKSH1-HUB/Twitter_Disaster_Prediction/assets/81084807/e479d8ec-8531-4096-82f6-161e408a94c9)
 </br>
